@@ -9,7 +9,7 @@
 
 # PostValidatorJsonCode
 
-maatify.dev Admin Portal Handler, known by our team
+maatify.dev Language Handler, known by our team
 
 
 # Installation
